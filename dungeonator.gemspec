@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Dungeonator::VERSION
   spec.authors       = ["Elliott Young"]
   spec.email         = ["elliott.a.young@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Generates a Dungeon/ One-Shot Campaign based on a number of pre-determined Fantasy Buzzwords"
+  spec.description   = "Generates a Dungeon/ One-Shot Campaign based on a number of pre-determined Fantasy Buzzwords"
+  spec.homepage      = "https://github.com/ElliottAYoung/Dungeonator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
